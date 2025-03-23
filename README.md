@@ -1,5 +1,4 @@
 # projet-Electric_Elevator-YoussefBerrissoul1
-projet-YoussefBerrissoul1 created by GitHub Classroom
-!Dia[grammeSequence](https://github.com/GI-AGL/projet-YoussefBerrissoul1/assets/136990782/aaa2b300-f1aa-4bc8-95fa-478ea5f0c425)
-![Use case ](https://github.com/GI-AGL/projet-YoussefBerrissoul1/assets/136990782/b2a116b1-6eb5-484c-b75d-20997193ada6)
-![Class](https://github.com/GI-AGL/projet-YoussefBerrissoul1/assets/136990782/e6918ced-2cfc-4218-a71e-ba3921e81658)
+![DiagrammeSequence](https://github.com/user-attachments/assets/406c6354-1be2-4959-aac5-93549df14eb1)
+![UseCase](https://github.com/user-attachments/assets/f77a0c94-3e0a-4d37-a14b-56cead0ffef4)
+![ClassDiagram](https://github.com/user-attachments/assets/56e00c1b-05cd-4e5d-92df-9adce83d1f1d)
